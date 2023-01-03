@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "533070107674",
+    "project_id": "t-social-4c88d",
+    "storage_bucket": "t-social-4c88d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533070107674:android:57e4f5f7a615b8fd1d2da3",
+        "android_client_info": {
+          "package_name": "com.example.t_social"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "533070107674-09hta70nar1824fauorevjn0eo7j5n58.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI2UocBaBZh9jzC7hmxWPkxfGPqoxk-to"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "533070107674-09hta70nar1824fauorevjn0eo7j5n58.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
